@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" fill="none">
+  <title>CONDUIT winking-owl mark — matrix-green line art</title>
+  <g stroke="#00E64A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- head: rounded shield -->
+    <path d="M120 26
+             C 66 26, 34 60, 34 112
+             C 34 168, 70 214, 120 214
+             C 170 214, 206 168, 206 112
+             C 206 60, 174 26, 120 26 Z"/>
+    <!-- ear tufts -->
+    <path d="M64 44 L52 14 L86 36"/>
+    <path d="M176 44 L188 14 L154 36"/>
+    <!-- brow line linking eyes -->
+    <path d="M62 96 C 90 78, 150 78, 178 96" stroke-width="5"/>
+    <!-- LEFT eye: open (ring + pupil) -->
+    <circle cx="88" cy="118" r="26"/>
+    <circle cx="88" cy="118" r="8" fill="#00E64A" stroke="none"/>
+    <!-- RIGHT eye: WINK (closed happy arc) -->
+    <path d="M126 122 C 140 108, 164 108, 178 122" stroke-width="7"/>
+    <!-- beak -->
+    <path d="M112 140 L120 158 L128 140 Z" fill="#0F191C"/>
+    <!-- chest tick marks (feather hint) -->
+    <path d="M100 178 L108 188 M120 182 L120 194 M140 178 L132 188" stroke-width="4"/>
+  </g>
+</svg>

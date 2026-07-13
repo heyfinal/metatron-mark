@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <title>SHOWREEL — Outro / Sign-off card (still keyframe, final state)</title>
+  <defs>
+    <radialGradient id="vig2" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#0F191C"/>
+      <stop offset="60%" stop-color="#0A0E0D"/>
+      <stop offset="100%" stop-color="#050706"/>
+    </radialGradient>
+    <linearGradient id="sweep2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E64A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#11FF25" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00E64A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="url(#vig2)"/>
+
+  <g stroke="#00E64A" stroke-width="3" fill="none" opacity="0.55" stroke-linecap="square">
+    <path d="M96 88 V54 H130"/><path d="M1824 88 V54 H1790"/>
+    <path d="M96 992 V1026 H130"/><path d="M1824 992 V1026 H1790"/>
+  </g>
+
+  <!-- big winking owl, centered -->
+  <g transform="translate(800,300) scale(1.35)">
+    <path d="M120 26 C 66 26, 34 60, 34 112 C 34 168, 70 214, 120 214 C 170 214, 206 168, 206 112 C 206 60, 174 26, 120 26 Z" fill="none" stroke="#00E64A" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M64 44 L52 14 L86 36" fill="none" stroke="#00E64A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M176 44 L188 14 L154 36" fill="none" stroke="#00E64A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M62 96 C 90 78, 150 78, 178 96" fill="none" stroke="#00E64A" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="88" cy="118" r="26" fill="none" stroke="#00E64A" stroke-width="6"/>
+    <circle cx="88" cy="118" r="8" fill="#00E64A"/>
+    <path d="M126 122 C 140 108, 164 108, 178 122" fill="none" stroke="#00E64A" stroke-width="7" stroke-linecap="round"/>
+    <path d="M112 140 L120 158 L128 140 Z" fill="#0F191C" stroke="#00E64A" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M100 178 L108 188 M120 182 L120 194 M140 178 L132 188" fill="none" stroke="#00E64A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- wordmark lockup -->
+  <text x="960" y="800" text-anchor="middle" font-family="'Manrope',sans-serif" font-weight="800"
+        font-size="72" fill="#E8FFE8" letter-spacing="-1">MAESTRO<tspan fill="#426644" dx="8" dy="0" font-weight="500">×</tspan>CONDUIT</text>
+
+  <rect x="760" y="838" width="400" height="4" rx="2" fill="url(#sweep2)"/>
+
+  <text x="960" y="906" text-anchor="middle" font-family="'JetBrains Mono','Monaco',monospace"
+        font-size="24" font-weight="500" fill="#CCFFCC" letter-spacing="1">Built for one operator. Runs a whole fleet.</text>
+
+  <!-- terminal sign-off prompt -->
+  <text x="960" y="1002" text-anchor="middle" font-family="'JetBrains Mono','Monaco',monospace"
+        font-size="16" font-weight="400" fill="#447744" letter-spacing="8">DANIEL GILLASPY &#183; EIR &amp; CPO&#160;&#160;<tspan fill="#11FF25">&#9611;</tspan></text>
+</svg>
