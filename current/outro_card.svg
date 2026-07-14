@@ -35,7 +35,7 @@
 
   <!-- wordmark lockup -->
   <text x="960" y="800" text-anchor="middle" font-family="'Manrope',sans-serif" font-weight="800"
-        font-size="72" fill="#E8FFE8" letter-spacing="-1">MAESTRO<tspan fill="#426644" dx="8" dy="0" font-weight="500">×</tspan>CONDUIT</text>
+        font-size="72" fill="#E8FFE8" letter-spacing="-1">METATRON<tspan fill="#426644" dx="8" dy="0" font-weight="500">×</tspan>CONDUIT</text>
 
   <rect x="760" y="838" width="400" height="4" rx="2" fill="url(#sweep2)"/>
 
