@@ -10,7 +10,7 @@ We're replacing the **winking-face logomark**. The animation (a face that winks 
 
 ## What we want
 
-A simple, modern, premium mark of **a face (or object) that winks** — works at favicon size, one or two colors, no gradients-required, reads instantly. It's the icon for a private AI-orchestration app: you talk to one operator (MARLOWE) and a whole fleet of AI "employees" gets the work done.
+A simple, modern, premium mark of **a face (or object) that winks** — works at favicon size, one or two colors, no gradients-required, reads instantly. It's the icon for a private AI-orchestration app: you talk to one operator (METATRON) and a whole fleet of AI "employees" gets the work done.
 
 ## Directions already on the table
 
